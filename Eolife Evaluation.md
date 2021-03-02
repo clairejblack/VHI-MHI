@@ -1,15 +1,10 @@
 Eolife Evaluation
 ====================
 ---
-title: "Eolife Evaluation"
-date: "23/11/2020"
-output:
-      word_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+date: "23/11/2020"
+
+
 
 
 Need to know the inspiratory and expiratory flow ranges that physiotherapists generate during physiotherapy interventions that involve manual hyperinflation.
